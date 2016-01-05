@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Stream.${1|cycle,timer,interval,concat,dedup,with_index,repeatedly,run,chunk_by,scan,concat,filter,dedup_by,uniq,take_every,map,flat_map,reject,unfold,iterate,each,drop_while,drop,take_while,take,chunk,zip,scan,filter_map,resource,into,transform|}($2)$0</string>
+	<key>name</key>
+	<string>Stream...</string>
+	<key>scope</key>
+	<string>source.elixir</string>
+	<key>tabTrigger</key>
+	<string>str</string>
+	<key>uuid</key>
+	<string>9F07498A-30E7-4A9A-A576-59C5CF853E87</string>
+</dict>
+</plist>

@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>defmodule ${1:`camelize_filename`} do
-	$2
+	<string>quote do
+  $1
 end$0</string>
 	<key>name</key>
-	<string>defmodule</string>
+	<string>quote</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>defmod</string>
+	<string>q</string>
 	<key>uuid</key>
-	<string>1BAFD05F-558D-4B18-95BF-7399E84A8E39</string>
+	<string>853BB50E-DD6C-4AA5-80D9-47935F08E643</string>
 </dict>
 </plist>

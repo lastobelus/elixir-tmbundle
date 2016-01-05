@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>defmodule ${1:`camelize_filename`} do
-	$2
-end$0</string>
+	<string>Enum.take($1)$0</string>
 	<key>name</key>
-	<string>defmodule</string>
+	<string>Enum.take</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>defmod</string>
+	<string>eta</string>
 	<key>uuid</key>
-	<string>1BAFD05F-558D-4B18-95BF-7399E84A8E39</string>
+	<string>3F858794-9B01-4015-BDAE-52EC501BEA2A</string>
 </dict>
 </plist>
