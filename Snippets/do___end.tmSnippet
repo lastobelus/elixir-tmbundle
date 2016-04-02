@@ -11,7 +11,7 @@ end$0</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>den</string>
+	<string>do</string>
 	<key>uuid</key>
 	<string>2056BA08-BFA7-4C14-A059-91E0C89AA8E0</string>
 </dict>

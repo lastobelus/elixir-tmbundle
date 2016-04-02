@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@doc ~S"""
-$1
-"""$0</string>
+	<string>&lt;%= form_for ${1|@changeset,@conn|}, $2, ${3:[as: $4], }fn f -&gt; %&gt;
+  $0
+&lt;% end %&gt;</string>
 	<key>name</key>
-	<string>doc</string>
+	<string>form_for</string>
 	<key>scope</key>
-	<string>source.elixir</string>
+	<string>text.html.elixir</string>
 	<key>tabTrigger</key>
-	<string>doc</string>
+	<string>formfor</string>
 	<key>uuid</key>
-	<string>79481DC6-D14E-4FFD-B4AC-1680139047B3</string>
+	<string>8E012A8F-83D6-4F7E-B2D4-F91339BE7C92</string>
 </dict>
 </plist>

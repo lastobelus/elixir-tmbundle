@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@moduledoc """
-$0
-"""</string>
+	<string>@moduledoc ~S"""
+$1
+"""$0</string>
 	<key>name</key>
 	<string>moduledoc</string>
 	<key>tabTrigger</key>

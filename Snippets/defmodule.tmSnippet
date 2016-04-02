@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>defmodule ${1:`camelize_filename`} do
-	$2
+	<string>defmodule ${1:$PHOENIX_APP_NAME.}${2:`camelize_filename`} do
+	$3
 end$0</string>
 	<key>name</key>
 	<string>defmodule</string>

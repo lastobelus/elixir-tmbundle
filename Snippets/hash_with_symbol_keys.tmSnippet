@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@doc ~S"""
-$1
-"""$0</string>
+	<string>%{${1:conn}: ${2:$1}$3}$0</string>
 	<key>name</key>
-	<string>doc</string>
+	<string>hash with symbol keys</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>doc</string>
+	<string>hs</string>
 	<key>uuid</key>
-	<string>79481DC6-D14E-4FFD-B4AC-1680139047B3</string>
+	<string>99F5F82A-9937-4734-9A50-40EB398F73B8</string>
 </dict>
 </plist>
