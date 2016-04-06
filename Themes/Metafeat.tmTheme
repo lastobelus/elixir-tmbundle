@@ -3,8 +3,7 @@
 <!--
 ======================================================================
 Metafeat
-- a derivative of Halflife (https://github.com/daylerees/colour-schemes),
-with additions to support coding in Phoenix/Elixir
+A derivative of Halflife (https://github.com/daylerees/colour-schemes), developed for Phoenix&#x2f;Elixir, but I use it for Ruby on Rails as well.
 ======================================================================
 A Sublime Text 2 / Textmate theme.
 Copyright (c) 2016 Michael Johnston
@@ -480,7 +479,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Property Name</string>
             <key>scope</key>
             <string>meta.property-name support.type.property-name</string>
             <key>settings</key>
@@ -491,7 +490,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Property Value</string>
             <key>scope</key>
             <string>meta.property-value punctuation.separator.key-value</string>
             <key>settings</key>
@@ -502,7 +501,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Keyword Use</string>
             <key>scope</key>
             <string>keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as</string>
             <key>settings</key>
@@ -526,7 +525,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Local Variable</string>
             <key>scope</key>
             <string>variable.other</string>
             <key>settings</key>
@@ -539,7 +538,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Instance Variable</string>
             <key>scope</key>
             <string>variable.other.readwrite.instance</string>
             <key>settings</key>
@@ -550,7 +549,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <dict>
             <key>name</key>
-            <string>Function argument</string>
+            <string>Instance Variable Symbol</string>
             <key>scope</key>
             <string>punctuation.definition.variable</string>
             <key>settings</key>
@@ -584,7 +583,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#7D8991</string>
+                <string>#0597AF</string>
             </dict>
         </dict>
 
@@ -656,7 +655,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F67938</string>
+                <string>#F7AB83</string>
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -757,5 +756,9 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
     </array>
     <key>uuid</key>
     <string>1B6F382D-D680-4FC5-95DD-385F06A72B47</string>
+    <key>author</key>
+    <string>Michael Johnston</string>
+    <key>comment</key>
+    <string>A derivative of Halflife (https://github.com/daylerees/colour-schemes), developed for Phoenix&#x2f;Elixir, but I use it for Ruby on Rails as well.</string>
 </dict>
 </plist>
