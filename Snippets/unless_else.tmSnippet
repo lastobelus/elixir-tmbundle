@@ -6,8 +6,8 @@
 	<string>unless $1 do
   $2
 else
-  $0
-end</string>
+  $3
+end$0</string>
 	<key>name</key>
 	<string>unless else</string>
 	<key>scope</key>

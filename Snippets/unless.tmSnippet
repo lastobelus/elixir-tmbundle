@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>unless $1 do
-  $0
-end</string>
+  $2
+end$0</string>
 	<key>name</key>
 	<string>unless</string>
 	<key>scope</key>
